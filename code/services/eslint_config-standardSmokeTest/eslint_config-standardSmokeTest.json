@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,eslint_config-standard",
+    "logging_enabled": "false",
+    "name": "eslint_config-standardSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "eslint_config-standardSmokeTest.js"
+}
